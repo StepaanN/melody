@@ -1,2 +1,5 @@
-# melody
-Учебный проект Glo Academy
+# melody Учебный проект Glo Academy
+##  Проект выполнил: Степан Н.
+### Технологии:
+- HTML
+- CSS
